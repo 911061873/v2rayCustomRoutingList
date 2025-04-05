@@ -101,6 +101,15 @@
         ]
     },
     {
+        "remarks": "自定义直连",
+        "outboundTag": "direct",
+        "ip": [],
+        "domain": [
+            "geosite:steam@cn",
+            "domain:steamserver.net"
+        ]
+    },
+    {
         "remarks": "代理IP",
         "outboundTag": "proxy",
         "ip": [
